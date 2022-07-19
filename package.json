@@ -1,0 +1,27 @@
+{
+  "name": "math-computers-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenwenlong7/test-math.git"
+  },
+  "author": "Leslie Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenwenlong7/test-math/issues"
+  },
+  "homepage": "https://github.com/chenwenlong7/test-math#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.18.9",
+    "@babel/core": "^7.18.9",
+    "@babel/preset-env": "^7.18.9",
+    "eslint": "^8.20.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
